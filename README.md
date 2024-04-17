@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stahsin00&langs_count=5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stahsin00&langs_count=5&theme=dark)
 
 <!--
 **stahsin00/stahsin00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
