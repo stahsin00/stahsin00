@@ -11,7 +11,7 @@
   
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
   
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white)
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stahsin00&langs_count=6&theme=dark&hide_border=true&layout=compact)
 
